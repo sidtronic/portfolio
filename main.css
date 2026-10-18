@@ -17,10 +17,10 @@ b{margin-bottom: 15px;font-size:30px;}
   position: fixed;
   top: 0;
   bottom: 106px;
-  width: 3125px;
+  width: 4100px;
   background: url('public/img/background.png');
   background-position: left bottom;
-  background-repeat: no-repeat;
+  background-repeat: repeat-x;
   background-size: auto 100%;}
   
 #mario{background-image: url('public/img/mario.png');
@@ -110,7 +110,7 @@ b{margin-bottom: 15px;font-size:30px;}
 
 #end-pole{position: absolute;
   bottom: 0px;
-  left:3300px; 
+  left:4200px; 
   width: 40px;
   height: 560px;
   z-index: 200;}
